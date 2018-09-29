@@ -1,0 +1,4 @@
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangLibrary\bin\Debug\TerbilangLibrary.dll
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangLibrary\bin\Debug\TerbilangLibrary.pdb
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangLibrary\obj\Debug\TerbilangLibrary.dll
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangLibrary\obj\Debug\TerbilangLibrary.pdb

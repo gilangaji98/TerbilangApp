@@ -1,0 +1,11 @@
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\bin\Debug\TerbilangAplikasi.exe.config
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\bin\Debug\TerbilangAplikasi.exe
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\bin\Debug\TerbilangAplikasi.pdb
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\obj\Debug\TerbilangAplikasi.csprojResolveAssemblyReference.cache
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\obj\Debug\TerbilangAplikasi.Properties.Resources.resources
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\obj\Debug\TerbilangAplikasi.csproj.GenerateResource.Cache
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\obj\Debug\TerbilangAplikasi.exe
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\obj\Debug\TerbilangAplikasi.pdb
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\bin\Debug\TerbilangLibrary.dll
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\bin\Debug\TerbilangLibrary.pdb
+D:\[dokumen]\Tugas Kuliah Gilang\TerbilangAplikasi\TerbilangAplikasi\obj\Debug\TerbilangAplikasi.Form1.resources
